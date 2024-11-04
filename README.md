@@ -22,7 +22,7 @@
 ---
 
 ## 🌟 Featured Projects
-### 📝 [Handwritten Digit Recognition](https://github.com/Hewialex/handwritten-digit-recognition)
+### 📝 [Handwritten Digit Recognition](https://github.com/Hewialex/Handwritten-Digit-Recognition)
 - A machine learning application that uses a Convolutional Neural Network (CNN) to classify handwritten digits from 0 to 9.
 - **Technologies Used**: Python, TensorFlow, Keras, Streamlit
 
