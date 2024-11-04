@@ -33,6 +33,10 @@
 - A hand gesture-controlled volume adjustment app that uses OpenCV and Mediapipe for real-time hand tracking.
 - **Technologies Used**: Python, OpenCV, Mediapipe, NumPy
 
+### 🛒 [E-commerce App](https://github.com/Hewialex/A2SV-Flutter)
+- A Flutter application featuring robust authentication and full CRUD functionalities, built using clean architecture principles.
+- **Technologies Used**: Flutter, Dart
+
 ---
 
 ## 🎯 Goals
